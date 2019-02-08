@@ -78,6 +78,19 @@ For our health and fitness app, we are focusing on young adults as our target us
 4.	Save auto-generated barcode to use at participating store
 
 #### **APP CAPABILITIES**
+-	When we first sign in the user will be presented with the options to turn on certain features like “Active Energy”,  “Steps”, and other features.  The user will also be able to enter their height, sex, weight, biometric information alike to enable our app to produce the best results for our user by calculating BMI, keeping track of steps and overall activity of the user.
+
+- Once the profile is set up the user is now at the home screen of the app and this is where the user will be able to navigate through the rest of the features through their own “personal trainer” that acts as a messaging system.  The user will now be able to set new goals, synchronize wearable technology, connect and compete with friends, and keep track of discounts they are rewarded.
+
+-	The trainer will be interactive with the user and will seem like they are messaging a real trainer.  The user can ask questions like “What is my BMI?”, “Can you show me my activity log for this week?”,   “How many steps have I taken today”, and etc.  The personal trainer will respond with helpful information and will even explain what some of the metrics mean.
+
+- The app will offer the user with a goals management system that will help the user to keep track of and maintain that the user is staying focused on this goal.  The user can set goals by messaging their “personal trainer” that they want to set a new goal and the time they want to achieve it by.  The trainer will then periodically send reminders to keep the user on track to make sure they will achieve their goal.
+
+- The user can also type “Synchronize Wearable Technology” to the trainer and the app will automatically take you to the page wear you can connect devices like apple watches to give the app an even better gage of steps and total activity because your phone is not always on you.  
+
+- The Social Manager will allow you to connect your daily stats like steps, workouts, and total activity with your friends.  Here you can check weekly leaderboards and other statistics to help motivate the user to beat their friends.  
+
+- On the homepage there will be a rewards tab that allows the user to view the discounts they have been awarded based on how active they have been.  The user will also be able to view other discounts they have not yet been awarded yet.
 
 
 
