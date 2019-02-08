@@ -20,11 +20,17 @@ Download our Team Aggrement [here](http://drive.google.com/file/d/1nko715Uob7-Xz
 ### **Milestone 1**
 ```markdown
 ```
-#### **User Group**
+#### **THE PROBLEM**
+Come the new year, everyone is hoping to lose weight and stick with their new years resolution. They go to the gym diligently and start eating healthier. However by the third week of January their motivation has diminished to the point of no longer existing. They get back to their old eating habits and say "next year I'll do it". Motivation is the key in living a healthier lifestyle. People know what to eat and how to work out, they just don't want to do it. 
+
+#### **OUR SOLUTION**
+That's where FitnessPoints comes in. This app will help spark motivation to keep users on their health journeys. Through the use of wearables and IOT devices, it will be able to keep track of workouts, weight loss/gain depending on user's goals, and other health related goals. Users will then earn points through their actions and be able to redeem those points for rewards at popular sports stores. If this doesn't motivate the user, the app will also have a friends and competition feature where users can compete with friends by doing challenges or in their general process. People love getting rewarded, so this app wants to reward for them for working towards their health goals. Who doesn't love a good discount?
+
+#### **OUR AUDIENCE**
 For our health and fitness app, we are focusing on young adults as our target user group. We chose this user group due to several research articles done showing that this user group uses mobile health apps the most. Our age group is defined by people are 18 to 29 years old. In a study done by statista.com this age group was the one who used these apps the most while people who were older aligned themselves in the group that could picture themselves using these kinds of apps but don’t actually use them. The younger generations are definitely more used to using apps in every aspect of their life so adding a fitness app to their routine wouldn’t be out of the norm. On the other hand, the older generations who aren’t in the habit of putting everything they do on to their smartphones and apps and going out of their way to learn to use our app probably isn’t something they are interested in. According to c-hit.org, the younger generation really enjoys the social support aspect to these apps. A bit of friendly competition with their friends really serves as motivation in their own health journeys. These users report that they enjoy that the easy access to be able to monitor their health throughout the day and it keeps the more accountable. These apps are definitely on the rise and have begun to win a spot on people’s homepages on their devices. 
 
 ![image of chart] (usergroup_Chart.jpg)
-#### **Task Analysis**
+#### **TASKS**
 ##### **Update Health Profile**
 1.  Select Health Profile Management option from home menu
 2.  Select personal information category available to be updated (Categories include, age, height, weight, and bmi)
@@ -71,7 +77,7 @@ For our health and fitness app, we are focusing on young adults as our target us
 3.	Select a valid store to apply points
 4.	Save auto-generated barcode to use at participating store
 
-
+#### **APP CAPABILITIES**
 
 
 
