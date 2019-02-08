@@ -36,10 +36,10 @@ For our health and fitness app, we are focusing on young adults as our target us
 2.	Select a sub-category (Conditioning, Muscle Building, or Weight Loss)
 3.	Browse the list of workout plans and read their descriptions
 4.	 Adjust a workout plan to suit personal needs
-  -	 Set a timeline by selecting start and end dates
-  -	Create daily reminders
-  -	Add or delete specific exercise routines
-  -	Arrange rest days
+  >	 Set a timeline by selecting start and end dates
+  >	Create daily reminders
+  >	Add or delete specific exercise routines
+  > Arrange rest days
 ##### **Manage Diet**
 1.	Select Manage Diet option from home menu
 2.	Choose a fitness goal for the appropriate diet plan
@@ -48,22 +48,22 @@ For our health and fitness app, we are focusing on young adults as our target us
 ##### **Synchronize Wearables**
 1.	Select Synchronize Wearables option from home menu
 2.	Choose to add or remove a wearable from recognized devices
-  -	Pair specific bluetooth wearables with app, or
-  -	Remove any wearable from recognized list
+  >	Pair specific bluetooth wearables with app, or
+  >	Remove any wearable from recognized list
 ##### **Manage Friends**
 1.	Select Manage Friends option from home menu
 2.	Choose to add or Remove Friends
-  -	Enter a valid username to send a friend request,
-  -	Accept or decline open requests from other users, or
-  -	Select current friends to remove from friends list
+  >	Enter a valid username to send a friend request,
+  >	Accept or decline open requests from other users, or
+  >	Select current friends to remove from friends list
 3.  Confirm all updates to friends list
 ##### **Competitions**
 1.	Select the Competitions option from home men
 2.	View all available friend competitions
 3.	Enter a competition
 4.	 Create a competition
-  -	Set an objective 
-  -	Set start and end dates
+  >	Set an objective 
+  >	Set start and end dates
 5.	View standings in competitions
 ##### **Rewards**
 1.	Select Rewards option form home menu
