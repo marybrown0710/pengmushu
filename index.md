@@ -20,5 +20,4 @@ Download our Team Aggrement [here](http://drive.google.com/file/d/1nko715Uob7-Xz
 
 ```markdown
 Milestone 1
-
 ```
