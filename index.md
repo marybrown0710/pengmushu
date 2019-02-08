@@ -12,12 +12,12 @@ This health tracking application uses a culmination of:
 All in order to mainatin your health and help you koygully engage in your wellbeing!
 
 
-```markdown
 ### Milestone 0
-```
-Download our Team Aggrement [here](http://drive.google.com/file/d/1nko715Uob7-XzCvR66tYGkR9t6KuA3ZM/view?usp=sharing).
-
-
 ```markdown
+Download our Team Aggrement [here](http://drive.google.com/file/d/1nko715Uob7-XzCvR66tYGkR9t6KuA3ZM/view?usp=sharing).
+```
+
 ### Milestone 1
+```markdown
+
 ```
